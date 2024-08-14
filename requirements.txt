@@ -1,0 +1,10 @@
+streamlit
+re
+nltk
+numpy
+PyPDF2
+tensorflow
+transformers
+pinecone-client
+langchain
+langchain_community
